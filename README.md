@@ -30,7 +30,7 @@ This Python script implements a CRC (Cyclic Redundancy Check) encoder and decode
 ```python
 Enter your Data : 10111011
 Enter your Key  : 1101
-
+---------------
 Remainder:  010
 Data:  10111011010
 ---------------
